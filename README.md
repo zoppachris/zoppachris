@@ -30,7 +30,5 @@ Here are my three most recent projects:
 
 ### Let's connect!
 
-Always happy to chat about code, design, or [insert random interest]. 
-
-* **LinkedIn:** [/in/yourprofile](https://www.linkedin.com/in/zoppa-christoppa-m-mahde/)
-* **Portfolio:** [yourwebsite.com](https://zoppa-portfolio.vercel.app)
+* **LinkedIn:** [https://www.linkedin.com/in/zoppa-christoppa-m-mahde/]
+* **Portfolio:** [https://zoppa-portfolio.vercel.app]
