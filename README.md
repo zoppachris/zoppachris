@@ -6,7 +6,7 @@ Currently progress to become fullstack with [C# (.Net, ASP.NET), Java, Phyton].
 
 ---
 
-### 🛠️ What I work with
+### What I work with
 
 * **The Basics:** HTML, CSS, JavaScript (ES6+), TypeScript
 * **Frameworks & Libraries:** React, Next.js, Tailwind CSS, Blazor
