@@ -2,7 +2,7 @@
 
 I'm a frontend developer based in Indonesia. I like clean code, good UI/UX, and figuring out how to make things just a little bit faster.
 
-Currently progress to become fullstack with [C# (.Net, ASP.NET), Java, Phyton].
+Currently progress to become fullstack with C# (.Net, ASP.NET), Java, Phyton.
 
 ---
 
