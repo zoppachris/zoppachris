@@ -11,7 +11,7 @@ Currently progress to become fullstack with C# (.Net, ASP.NET), Java, Phyton.
 * **The Basics:** HTML, CSS, JavaScript (ES6+), TypeScript
 * **Frameworks & Libraries:** React, Next.js, Tailwind CSS, Blazor
 * **Tools:** Git, Vite, Figma, npm/pnpm
-* **Currently learning:** [Python, C#, Go, Vue.js]
+* **Currently learning:** Python, C#, Go, Vue.js
 
 ---
 
